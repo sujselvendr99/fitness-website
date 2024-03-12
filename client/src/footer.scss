@@ -1,0 +1,25 @@
+.footer{
+    background-color: #291776
+}
+
+.footer_section{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer_links{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 96%;
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    color: rgb(254, 254, 254);
+}
+a{
+    color: rgb(254, 254, 254);
+    text-decoration: none;
+}
