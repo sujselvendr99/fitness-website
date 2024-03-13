@@ -3,7 +3,7 @@ import NoteItem from './NoteItem'
 import CreateNote from './CreateNote'
 import NoteDetails from './NoteDetails'
 import NavbarNotes from './NavbarNotes'
-import './note.scss'
+import '../note.scss'
 
 function Note() {
 

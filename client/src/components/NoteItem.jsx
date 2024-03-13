@@ -1,5 +1,5 @@
 import React from 'react'
-import './note.scss'
+import '../note.scss'
 
 function NoteItem({ onPreview, onUpdate, onDelete, note }) {
   return (

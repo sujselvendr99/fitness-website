@@ -1,4 +1,4 @@
-import "./navbarNotes.scss";
+import "../navbarNotes.scss";
 
 const NavbarNotes = ({setOpen}) => {
   return (

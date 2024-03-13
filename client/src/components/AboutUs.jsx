@@ -1,5 +1,5 @@
 import React from 'react'
-import fitness_image_girl from './images/fitness_image_girl.jpg'; //master1305 from freepix
+import fitness_image_girl from '../images/fitness_image_girl.jpg'; //master1305 from freepix
 
 function AboutUs() {
     return (

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './note.scss';
+import '../note.scss';
 import { v4 as getID } from "uuid";
 import React from 'react'
 

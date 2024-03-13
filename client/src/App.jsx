@@ -1,13 +1,13 @@
 import './app.scss';
-import Footer from './Footer'
+import Footer from './components/Footer'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Signup from './Signup'
 import Login from './Login'
-import AboutUs from './AboutUs.jsx'
-import Fitness from './Fitness'
-import Discussion from './Discussion.jsx'
+import AboutUs from './components/AboutUs.jsx'
+import Fitness from './components/Fitness'
+import Discussion from './components/Discussion.jsx'
 import Home from './Home.jsx'
-import Note from "./Note"
+import Note from "./components/Note"
 import Navbar from "./components/Navbar.jsx";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 

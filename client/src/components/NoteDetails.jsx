@@ -1,5 +1,5 @@
 import React from 'react'
-import './NoteDetails.scss';
+import '../NoteDetails.scss';
 
 const NoteDetails = ({setView, note}) => {
   return (

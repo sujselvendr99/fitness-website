@@ -1,10 +1,10 @@
 import React from 'react'
-import './app.scss';
+import '../app.scss';
 import { Link } from 'react-router-dom'
-import fitness_image_girl from './images/fitness_image_girl.jpg'; //master1305 from freepix
-import woman_running from './images/woman_running.jpg'; //Holiak from Freepix
-import strength_training_man from './images/strength_training_man.jpg'; //Holiak from Freepix
-import HIIT_workout from './images/HIIT_workout.jpg'; //Holiak from Freepix
+import fitness_image_girl from '../images/fitness_image_girl.jpg'; //master1305 from freepix
+import woman_running from '../images/woman_running.jpg'; //Holiak from Freepix
+import strength_training_man from '../images/strength_training_man.jpg'; //Holiak from Freepix
+import HIIT_workout from '../images/HIIT_workout.jpg'; //Holiak from Freepix
 
 function Fitness() {
     return (
